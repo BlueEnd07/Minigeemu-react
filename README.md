@@ -36,6 +36,7 @@ you can just clone it and use as you wants maybe idea for your own projects(or y
 - JavaScript
 - CSS
 - [Tailwind CSS](https://tailwindcss.com/)
+- vite
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
